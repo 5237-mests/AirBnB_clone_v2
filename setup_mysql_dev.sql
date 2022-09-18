@@ -1,6 +1,4 @@
--- creat new data base hbnb_dev_db
--- grant all privilege
--- create new user
+--  a script that prepares a MySQL server for the project
 
 CREATE DATABASE IF NOT EXISTS hbnb_dev_db;
 USE hbnb_dev_db;
