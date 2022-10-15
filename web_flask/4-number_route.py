@@ -3,9 +3,9 @@
 a script that starts a Flask web application:
 """
 
-from email.policy import default
-from tkinter.tix import INTEGER
+
 from flask import Flask
+
 
 app = Flask(__name__)
 
